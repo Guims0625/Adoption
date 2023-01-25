@@ -1,0 +1,10 @@
+com\group1\adoption\service\AdopterService.class
+com\group1\adoption\service\IDogService.class
+com\group1\adoption\controller\MyController.class
+com\group1\adoption\service\DogService.class
+com\group1\adoption\AdoptionApplication.class
+com\group1\adoption\model\Adopter.class
+com\group1\adoption\repository\AdopterRepository.class
+com\group1\adoption\service\IAdopterService.class
+com\group1\adoption\repository\DogRepository.class
+com\group1\adoption\model\Dog.class
